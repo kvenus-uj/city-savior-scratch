@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fdb935de.css",
+    "main.js": "/static/js/main.aebeae5e.js",
+    "static/media/demon_city.jpg": "/static/media/demon_city.1fd82f4060a25b9855a8.jpg",
+    "static/media/Human_Female_RDM1.png": "/static/media/Human_Female_RDM1.332d488e36df5524cf5b.png",
+    "static/media/Demon_Female_RDM1.png": "/static/media/Demon_Female_RDM1.365a951f72b329820049.png",
+    "static/media/Human_Male_RDM1.png": "/static/media/Human_Male_RDM1.92f5b026abcd7cdd9b50.png",
+    "static/media/web-logo.png": "/static/media/web-logo.56a570996b40cff797d3.png",
+    "static/media/qnft.gif": "/static/media/qnft.cb13afddbcd5f1d65795.gif",
+    "static/media/no-icon.png": "/static/media/no-icon.cd933b8a67b5c8dd0181.png",
+    "static/media/token.svg": "/static/media/token.93d8dc867575d27ff2fba8da1191a36b.svg",
+    "static/media/tmp_view.png": "/static/media/tmp_view.aceaafc9b4107f30dc37.png",
+    "static/media/laikadoge.jpeg": "/static/media/laikadoge.17f17998bae9bd6be510.jpeg",
+    "static/media/kanga.gif": "/static/media/kanga.ed8f5a7f27f26d84585f.gif",
+    "static/media/plot.png": "/static/media/plot.5634fdd08e6c957d46aa.png",
+    "static/media/wdoge.jpg": "/static/media/wdoge.748dfbf6a9a422e1a073.jpg",
+    "static/media/bitcoin.png": "/static/media/bitcoin.80c6afd146f4c131853a.png",
+    "static/media/Progetto-senza-titolo-73-2.png": "/static/media/Progetto-senza-titolo-73-2.e8db4dae2af24576597b.png",
+    "static/media/peace.jpeg": "/static/media/peace.9cb0f040fe6ab74fafef.jpeg",
+    "static/media/usdt.png": "/static/media/usdt.006177e6b2ff9c8fcfb9.png",
+    "static/media/etherium.png": "/static/media/etherium.6fa2597c9c4e1e49297e.png",
+    "static/media/circle.jpg": "/static/media/circle.ff91bd783ee73811406b.jpg",
+    "static/media/rocket.svg": "/static/media/rocket.b563b73f0a35465901ef60e57764c7e2.svg",
+    "static/media/blue-horse.svg": "/static/media/blue-horse.6be0a32f756446d71218f6af2b6738ae.svg",
+    "static/media/hourse.svg": "/static/media/hourse.878f4346db614a4d6561e81ce88664f7.svg",
+    "static/media/doc-lock.svg": "/static/media/doc-lock.4145ef2ac276a523c0e6f0adf17b1c72.svg",
+    "index.html": "/index.html",
+    "main.fdb935de.css.map": "/static/css/main.fdb935de.css.map",
+    "main.aebeae5e.js.map": "/static/js/main.aebeae5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdb935de.css",
+    "static/js/main.aebeae5e.js"
+  ]
+}
